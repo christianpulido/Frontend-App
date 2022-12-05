@@ -1,0 +1,62 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+.articles_btns {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.articles_btns:hover {
+    transform:scale(1.2);
+}
+
+.favorite_btn,
+.reserved_btn {
+    cursor: pointer
+}
+
+.article_image {
+    object-fit: cover;
+}
+
+.access {
+    color: darkgrey;
+}
+
+.access:hover {
+    color: white;
+}
+
+.more_info {
+    color: $secondary;
+}
+.more_info:hover {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    transform:scale(1.08);
+    color: $primary;
+}
+
+.access-result {
+    top: 25%;
+    animation-name: portalAccess;
+    animation-duration: 5s;
+    z-index: 10;
+
+}
+
+@keyframes portalAccess {
+    0% {left:-100%}
+    25% {left:0%}
+    75% {left:0%}
+    100% {left:-100%}
+}
+
+.myModal {
+    z-index: 10;
+    background-color: rgba(169, 169, 169, 0.605);
+}
+
+.create_modal {
+    overflow: auto;
+}
+

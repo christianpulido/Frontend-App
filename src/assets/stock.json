@@ -1,0 +1,54 @@
+[
+  {
+    "ref":"M-8614JHL",
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year": 2020,
+    "km": "10.250",
+    "sale_price": "23.800",
+    "gearbox": "Manual",
+    "gas": "Gasolina" ,
+    "photos": ["https://cdn.motor1.com/images/mgl/BomYe/s1/volkswagen-golf-8-2019-cropped-lead.jpg", "https://cdn.motor1.com/images/mgl/VGVM9/s1/volkswagen-golf-8-2019.jpg", "https://cdn.motor1.com/images/mgl/BomNm/s1/volkswagen-golf-8-2019.jpg", "https://cdn.motor1.com/images/mgl/7k9vW/s1/volkswagen-golf-8-2019.jpg"],
+    "favorite": false,
+    "reserved": false
+  },
+  {
+    "ref": "M-0423JFY",
+    "brand": "Mercedes-Benz",
+    "model": "Clase A",
+    "year": 2021,
+    "km": "4.800",
+    "sale_price": "34.700",
+    "gearbox": "Automático",
+    "gas": "Gasolina" ,
+    "photos": ["https://www.mercedes-benz.es/passengercars/mercedes-benz-cars/campaigns/a-class/equipment/_jcr_content/par/videoimageslider/slides/videoimageslide_995664228/image.MQ4.0.2x.20191002183651.jpeg", "https://www.mercedes-benz.es/passengercars/mercedes-benz-cars/campaigns/a-class/equipment/_jcr_content/par/videoimageslider/slides/videoimageslide_1539944402/image.MQ4.12.2x.20191002184115.jpeg", "https://www.mercedes-benz.es/passengercars/mercedes-benz-cars/campaigns/a-class/equipment/_jcr_content/par/videoimageslider/slides/videoimageslide_1809947567/image.MQ4.12.2x.20191002183052.jpeg", "https://www.mercedes-benz.es/passengercars/mercedes-benz-cars/campaigns/a-class/interior/_jcr_content/par/productinfotextimage/media2/slides/videoimageslide/image.MQ4.7.2x.20220411174723.jpeg"],
+    "favorite": true,
+    "reserved": false
+  },
+  {
+    "ref": "M-0599HFJ",
+    "brand": "Porsche",
+    "model": "911 GT3",
+    "year": 2021,
+    "km": "15.500",
+    "sale_price": "192.500",
+    "gearbox": "Manual",
+    "gas": "Gasolina" ,
+    "photos": ["https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6QiEEUSu%258BgymgzGo1jsEwhaxFH8dFMR6%258sMP55VXeFGEeBcRx1Wxa1uKTvT8x9LrvUWf9WEAYCFY2lFXh05whprhMLizX2%25jsML01dGwULqtFeFisMXR67D5%25VEupNjmLU4yxc7qhU7IimwZSHvrUUCWK1m41x0e7%25cFBJ5Rr7VjZarpoHbc", "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6QiEEUSu%258BgymgzGo1jsEwhaxFH8dFMR6%25BsMP55VXeFGEeBcRx1Wxa1uKTvT8x9LrvUWf9WEAYCFY2lFXh05whprhMLizX2%25jsML01dGwULqtFeFisMXR67D5%25VEupNjmLU4yxc7qhU7IimwZSHvrUUCWK1m41x0e7%25cFBJ5Rr7VjZarpoHbc", "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6QiEEUSu%258BgymgzGo1jsEwhaxFHj1FMR6%258sMP55VXeFGEeBcRx1Wxa1uKTvT8x9LrvUWf9WEAYCFY2lFXh05whprhMLizX2%25jsML01dGwULqtFeFisMXR67D5%25VEupNjmLU4yxc7qhU7IimwZSHvrUUCWK1m41x0e7%25cFBJ5Rr7VjZarpoHbc", "https://pics.porsche.com/rtt/iris?COSY-EU-100-1713c6eK12UC31P3T5JOCU%25hjdmiTDDmvMXlHWguCuq6QiEEUSu%258BgymgzGo1jsEwhaxFHj1FMR6%253sMP55VXeFGEeBcRx1Wxa1uKTvT8x9LrvUWf9WEAYCFY2lFXh05whprhMLizX2%25jsML01dGwULqtFeFisMXR67D5%25VEupNjmLU4yxc7qhU7IimwZSHvrUUCWK1m41x0e7%25cFBJ5Rr7VjZarpoHbc"],
+    "favorite": false,
+    "reserved": true
+  },
+  {
+    "ref": "M-8455PZV",
+    "brand": "Jeep",
+    "model": "Rubicon",
+    "year": 2020,
+    "km": "9.100",
+    "sale_price": "61.300",
+    "gearbox": "Manual",
+    "gas": "Gasolina" ,
+    "photos": ["https://cdn.motor1.com/images/mgl/EM9nM/s1/prueba-jeep-wrangler-rubicon-2020.jpg", "https://cdn.motor1.com/images/mgl/Z394o/s1/prueba-jeep-wrangler-rubicon-2020.jpg", "https://cdn.motor1.com/images/mgl/kjyMn/s1/prueba-jeep-wrangler-rubicon-2020.jpg", "https://cdn.motor1.com/images/mgl/v1WyY/s1/prueba-jeep-wrangler-rubicon-2020.jpg"],
+    "favorite": false,
+    "reserved": false
+  }
+]
